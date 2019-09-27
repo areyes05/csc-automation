@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "csv-mysql": "^1.0.3",
+    "mysql": "^2.17.1"
+  },
+  "name": "test4",
+  "version": "1.0.0",
+  "main": "mysql.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node mysql.js"
+  }
+}
